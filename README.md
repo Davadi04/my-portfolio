@@ -26,3 +26,15 @@ Read more about me here: [About Me](about.md)
 - Version Control Workflow 
   Explored standard development workflow using add → commit → merge.
 
+  # Skills
+
+## DevOps Skills
+- Git
+- GitHub
+- Docker
+- Linux (Ubuntu)
+
+## Tools
+- VS Code
+- Terminal
+
