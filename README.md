@@ -8,4 +8,11 @@ This repository document my learning journey, hands-on projects, and experiments
 ## Learn More
 Read more about me here: [About Me](about.md)
 
+## Projects
+
+### DevOps Lab 1 — Git & Version Control
+- Initialized a Git repository
+- Created and managed project documentation
+- Practiced staging, committing, and tracking changes
+
 
