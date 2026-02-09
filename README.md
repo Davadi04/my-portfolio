@@ -11,12 +11,6 @@ Read more about me here: [About Me](about.md)
 ## Projects
 
 ### DevOps Lab 1 — Git & Version Control
-- Initialized a Git repository
-- Created and managed project documentation
-- Practiced staging, committing, and tracking changes
-
-## Projects
-
 - Git Basics  
   Practiced initializing repositories, staging changes, committing updates, and viewing history using Git commands.
 
@@ -31,5 +25,4 @@ Read more about me here: [About Me](about.md)
 
 - Version Control Workflow 
   Explored standard development workflow using add → commit → merge.
-
 
